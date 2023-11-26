@@ -1,0 +1,6 @@
+nextcord
+asyncio
+python-dotenv
+pynacl
+requests
+snscrape
